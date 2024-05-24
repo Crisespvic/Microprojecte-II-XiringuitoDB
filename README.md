@@ -9,9 +9,13 @@ Per a poder instal.lar correctament i provar l'aplicació segueix els comandamen
 INSTRUCCIONS D'INSTAL.LACIÓ:
 
 sudo apt install python3
+
 sudo apt install python3-tk
+
 sudo apt install python3-pip
+
 sudo pip3 install pymongo
+
 sudo snap install docker
 
 sudo docker run -d \
